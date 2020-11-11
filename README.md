@@ -1,1 +1,1 @@
-# medicalqa.github.io
+# MedicalQA.github.io
